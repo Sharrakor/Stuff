@@ -12,6 +12,7 @@ def main():
 	for line in args.infile:
 		print(line, end='')
 		## Todo: The actual cryptography part of the cryptography thing, just as soon as I've figured out how '>_>
+		## Don't look to disappointed
 
 	command = input("Exit? [Y/N]: ").lower()
 	while command != "y":
