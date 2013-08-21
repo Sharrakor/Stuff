@@ -9,4 +9,4 @@ Feel free to rename the containing folder anything you wish, assuming you placed
 **Warning: this is not currently an "official" art asset package. Some caution is recommended when building levels from it.**
 Save it to any location you like.
 4. Open up Unity and, from the Assets menu, select `Import Package` > `Custom Package...`. From the dialog box, select the Unity Package you just downloaded and import it. You'll likely want to import all the items so go ahead and simply click `import` on the following box to continue. (Of course, you can alternatively select what items you want to import by checking and unchecking boxes as needed.)
-5. 
+5. From here, you can either create a new scene or open a pre-existing one (such as the Benchmarking scene, which will be included in the Unity package soon).
