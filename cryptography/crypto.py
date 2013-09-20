@@ -8,11 +8,11 @@ parser.add_argument('-o','--outfile', nargs='?', type=argparse.FileType('w'), de
 
 args = parser.parse_args()
 
-def main():	
+def main():
 	for line in args.infile:
 		print(line, end='')
 		## Todo: The actual cryptography part of the cryptography thing, just as soon as I've figured out how '>_>
-		## Don't look to disappointed
+		## Don't look too disappointed
 
 	command = input("Exit? [Y/N]: ").lower()
 	while command != "y":
